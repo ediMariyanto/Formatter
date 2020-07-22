@@ -1,0 +1,3 @@
+include ':Formatter'
+include ':app'
+rootProject.name = "Formatters"
